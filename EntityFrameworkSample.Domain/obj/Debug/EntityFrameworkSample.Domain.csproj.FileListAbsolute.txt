@@ -1,0 +1,10 @@
+C:\Users\Cameron\documents\visual studio 2015\Projects\EntityFrameworkSample\EntityFrameworkSample.Domain\bin\Debug\EntityFrameworkSample.Domain.dll.config
+C:\Users\Cameron\documents\visual studio 2015\Projects\EntityFrameworkSample\EntityFrameworkSample.Domain\bin\Debug\EntityFrameworkSample.Domain.dll
+C:\Users\Cameron\documents\visual studio 2015\Projects\EntityFrameworkSample\EntityFrameworkSample.Domain\bin\Debug\EntityFrameworkSample.Domain.pdb
+C:\Users\Cameron\documents\visual studio 2015\Projects\EntityFrameworkSample\EntityFrameworkSample.Domain\bin\Debug\EntityFramework.dll
+C:\Users\Cameron\documents\visual studio 2015\Projects\EntityFrameworkSample\EntityFrameworkSample.Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Cameron\documents\visual studio 2015\Projects\EntityFrameworkSample\EntityFrameworkSample.Domain\bin\Debug\EntityFramework.xml
+C:\Users\Cameron\documents\visual studio 2015\Projects\EntityFrameworkSample\EntityFrameworkSample.Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Cameron\documents\visual studio 2015\Projects\EntityFrameworkSample\EntityFrameworkSample.Domain\obj\Debug\EntityFrameworkSample.Domain.dll
+C:\Users\Cameron\documents\visual studio 2015\Projects\EntityFrameworkSample\EntityFrameworkSample.Domain\obj\Debug\EntityFrameworkSample.Domain.pdb
+C:\Users\Cameron\documents\visual studio 2015\Projects\EntityFrameworkSample\EntityFrameworkSample.Domain\obj\Debug\EntityFrameworkSample.Domain.csprojResolveAssemblyReference.cache

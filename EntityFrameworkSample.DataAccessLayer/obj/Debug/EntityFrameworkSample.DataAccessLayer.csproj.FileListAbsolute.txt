@@ -1,0 +1,14 @@
+C:\Users\Cameron\documents\visual studio 2015\Projects\EntityFrameworkSample\EntityFrameworkSample.DataAccessLayer\bin\Debug\EntityFrameworkSample.DataAccessLayer.dll.config
+C:\Users\Cameron\documents\visual studio 2015\Projects\EntityFrameworkSample\EntityFrameworkSample.DataAccessLayer\bin\Debug\EntityFrameworkSample.DataAccessLayer.dll
+C:\Users\Cameron\documents\visual studio 2015\Projects\EntityFrameworkSample\EntityFrameworkSample.DataAccessLayer\bin\Debug\EntityFrameworkSample.DataAccessLayer.pdb
+C:\Users\Cameron\documents\visual studio 2015\Projects\EntityFrameworkSample\EntityFrameworkSample.DataAccessLayer\bin\Debug\EntityFramework.dll
+C:\Users\Cameron\documents\visual studio 2015\Projects\EntityFrameworkSample\EntityFrameworkSample.DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Cameron\documents\visual studio 2015\Projects\EntityFrameworkSample\EntityFrameworkSample.DataAccessLayer\bin\Debug\EntityFrameworkSample.Domain.dll
+C:\Users\Cameron\documents\visual studio 2015\Projects\EntityFrameworkSample\EntityFrameworkSample.DataAccessLayer\bin\Debug\EntityFrameworkSample.Domain.pdb
+C:\Users\Cameron\documents\visual studio 2015\Projects\EntityFrameworkSample\EntityFrameworkSample.DataAccessLayer\bin\Debug\EntityFramework.xml
+C:\Users\Cameron\documents\visual studio 2015\Projects\EntityFrameworkSample\EntityFrameworkSample.DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Cameron\documents\visual studio 2015\Projects\EntityFrameworkSample\EntityFrameworkSample.DataAccessLayer\obj\Debug\EntityFrameworkSample.DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\Cameron\documents\visual studio 2015\Projects\EntityFrameworkSample\EntityFrameworkSample.DataAccessLayer\obj\Debug\EntityFrameworkSample.DataAccessLayer.dll
+C:\Users\Cameron\documents\visual studio 2015\Projects\EntityFrameworkSample\EntityFrameworkSample.DataAccessLayer\obj\Debug\EntityFrameworkSample.DataAccessLayer.pdb
+C:\Users\Cameron\documents\visual studio 2015\Projects\EntityFrameworkSample\EntityFrameworkSample.DataAccessLayer\obj\Debug\EntityFrameworkSample.DataAccessLayer.Migrations.InitialCreate.resources
+C:\Users\Cameron\documents\visual studio 2015\Projects\EntityFrameworkSample\EntityFrameworkSample.DataAccessLayer\obj\Debug\EntityFrameworkSample.DataAccessLayer.csproj.GenerateResource.Cache
